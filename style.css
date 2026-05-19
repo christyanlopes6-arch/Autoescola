@@ -137,6 +137,16 @@ nav a:hover::after{
   align-items:center;
   padding-top:120px;
 }
+.hero-image {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.hero-image img {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 20px;
+}
 
 .hero-content{
   display:grid;
